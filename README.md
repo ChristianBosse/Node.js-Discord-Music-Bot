@@ -37,6 +37,7 @@ List of commands for the bot:
 -   NPM or Yarn
 -   IDE (Exemple VSCode)
 -   PuTTY (If hosting)
+-   Discord Bot (Scopes : applications.commands, bot) (Permission: Administrator)
 
 ## Installation (Local)
 
