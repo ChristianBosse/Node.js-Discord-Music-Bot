@@ -34,19 +34,21 @@ List of commands for the bot:
 ## Requirements
 
 -   NodeJS v16.9.0 or higher
+-   NPM or Yarn
+-   IDE (Exemple VSCode)
 
-## Installation
+## Installation (Local)
 
 1. Clone this repository
 
 ```sh
-git clone
+git clone https://github.com/ChristianBosse/Node.js-Discord-Music-Bot.git
 ```
 
 2. Install dependencies
 
 ```sh
-npm i
+npm install
 ```
 
 3. Rename .env.example to .env
@@ -62,3 +64,5 @@ npm i
 ```sh
 npm start
 ```
+
+## Installation (Server)
