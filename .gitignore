@@ -1,0 +1,15 @@
+#Node modules
+node_modules
+
+#environment files
+.env
+
+#Files not yet ready
+/commands/autoplay.js
+/commands/back.js
+/commands/bassboost.js
+/commands/clear.js
+/commands/history.js
+/commands/lyrics.js
+/commands/playnext.js
+/commands/volume.js
